@@ -1,0 +1,35 @@
+body{
+    background-size: cover;
+}
+#play{
+    font-size: 18px;
+    color: white;
+width: 10%
+}
+h3{
+    width: 100%;
+    font-size: 30px;
+    font-weight: bold;
+}
+#speed{
+    float: left;
+}
+#volume{
+    float: right;
+}
+img{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed1{
+    color:white;
+    font-size: 20px;
+}
+#volume1{
+    color: white;
+    font-size: 20px;
+}
+canvas{
+    border: 4px dashed white;
+    border-radius:10px;
+}
